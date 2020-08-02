@@ -22,12 +22,3 @@ def find_element_index(array, value_to_find)
   end
   found_value_index
 end
-
-
-
-def find_max_value(array)
-  cound = 0
-  max_value =-1
-  while count < array.length do
-    
-  end
